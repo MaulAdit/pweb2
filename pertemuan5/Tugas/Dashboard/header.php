@@ -19,7 +19,7 @@
 <body class="hold-transition sidebar-mini">
 <div class="wrapper">
   <nav class="main-header navbar navbar-expand">
-    <span class="navbar-brand">Puskes MAS</span>
+    <span class="navbar-brand">Puskesmas</span>
   </nav>
 </div>
 </body>
